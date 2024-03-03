@@ -1,0 +1,6 @@
+[book]
+authors = ["Dimitrios Charalampidis"]
+language = "en"
+multilingual = false
+src = "src"
+title = "thecodingidiot.com"
